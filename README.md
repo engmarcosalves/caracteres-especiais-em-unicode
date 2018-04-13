@@ -4,6 +4,7 @@ Caracteres Especiais em UNICODE
 Caracteres especiais representados em Unicode
 Para evitar problemas com encoding de caracteres especiais é bom utilizar em suas classes Java código unicode ao invés de letras acentuadas. Abaixo relaciono uma tabela de alguns dos caracteres especiais que mais usamos no dia a dia com seu cógigo unicode:
 á = \u00e1
+
 à = \u00e0
 â = \u00e2
 ã = \u00e3
